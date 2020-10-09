@@ -1,0 +1,54 @@
+#site {
+    width: 1000px;
+    height: 700px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-bottom: 0;
+    margin-right: auto;
+    background-color: rgb(245, 255, 245);
+    }
+    
+    #cabecera {
+        width: 1000px;
+        height: 150px;
+        background-color: rgb(31, 58, 47);
+        }
+
+    #cuerpo {
+        width: 1000px;
+        height: 1480px;
+        background-color: rgb(228, 255, 228);
+        }
+
+    #work { width: 490px;
+        height: 150px;
+        margin-left: 250px;
+        border-radius: 8%;
+        background-color:darkseagreen ;
+        
+
+    }
+
+
+
+    #soft { width: 290px;
+        height: 120px;
+        margin-left: 50px;
+        border-radius: 8%;
+        background-color:darkseagreen ;
+    }
+
+    #tecnicas { width: 450px;
+        height: 130px;
+        margin-right: 50px;
+        border-radius: 8%;
+        background-color:darkseagreen ;
+    }
+    
+    #try { display: inline !important;
+     }
+
+    #pie {
+        width: 1000px;
+        height: 150px;
+        background-color: rgb(31, 58, 47);}
